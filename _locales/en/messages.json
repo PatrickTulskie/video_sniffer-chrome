@@ -1,0 +1,11 @@
+{
+  "download": {
+    "message": "Download"
+  },
+  "found_title": {
+    "message": "Found Videos:"
+  },
+  "not_found": {
+    "message": "Couldn't smell any videos..."
+  }
+}
